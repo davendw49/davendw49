@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋 It's Daven (Cheng Deng) here!
 
 - 🔭 I’m currently working on NLP, KG and AI4Science.
 - 👩🏻‍💻 I'm a PhD candidate at Shanghai Jiao Tong University.
